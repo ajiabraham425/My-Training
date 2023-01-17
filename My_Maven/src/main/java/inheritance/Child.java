@@ -3,6 +3,7 @@ package inheritance;
 public class Child extends Inheri{
 	public void name() {
 		System.out.println("Maven child");
+		System.out.println("Maven child");
 		
 	}
 
